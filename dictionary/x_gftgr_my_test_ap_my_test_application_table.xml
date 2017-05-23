@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="My test application Table" max_length="40" name="x_gftgr_my_test_ap_my_test_application_table" type="collection">
+        <element default="1" label="Room number" mandatory="true" max_length="3" name="room_number" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>albert.franquesa</sys_created_by>
+        <sys_created_on>2017-05-23 08:51:34</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>4758ad9b0fb632001aaf079ce1050e46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_gftgr_my_test_ap_my_test_application_table.x_gftgr_my_test_ap.user</sys_name>
+        <sys_package display_value="My test application" source="x_gftgr_my_test_ap">565825970f7632001aaf079ce1050eda</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My test application">565825970f7632001aaf079ce1050eda</sys_scope>
+        <sys_security_acl display_value="x_gftgr_my_test_ap_my_test_application_table">8b58ad9b0fb632001aaf079ce1050e45</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4758ad9b0fb632001aaf079ce1050e46</sys_update_name>
+        <sys_updated_by>albert.franquesa</sys_updated_by>
+        <sys_updated_on>2017-05-23 08:51:34</sys_updated_on>
+        <sys_user_role display_value="x_gftgr_my_test_ap.user" name="x_gftgr_my_test_ap.user">2258ad9b0fb632001aaf079ce1050e42</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
